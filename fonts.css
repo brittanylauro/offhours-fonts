@@ -11,3 +11,10 @@
   font-weight: normal;
   font-style: normal;
 }
+
+@font-face {
+  font-family: 'Sloop Script';
+  src: url('https://raw.githubusercontent.com/brittanylauro/offhours-fonts/main/SloopScriptRegular.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
